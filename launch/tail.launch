@@ -1,0 +1,6 @@
+<launch>
+
+   <node name="tail" pkg="ros_tail" type="tail_node.py">
+
+   </node>
+</launch>
